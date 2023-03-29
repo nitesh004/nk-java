@@ -1,12 +1,12 @@
 import java.util.Scanner;
 public class SingleOne {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);        
         System.out.println("Enter the smallest k digit number");
         int k;
         k=sc.nextInt();
         System.out.println("Enter the x divisible number");
-        int x;
+         int x;
         x= sc.nextInt();
 
         double i = Math.pow(10,k-1);

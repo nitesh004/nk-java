@@ -207,6 +207,6 @@ public class newPattern {
                 System.out.println();
             }
         }
-    
+
 
 }

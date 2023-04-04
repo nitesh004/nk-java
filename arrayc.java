@@ -67,7 +67,7 @@ public class arrayc {
 //        int i = s.indexOf(" ");
 //
 //        System.out.println(i);
-/
+///
         String str = "Good"; //Line 3
 
         change(str); //Line 4
